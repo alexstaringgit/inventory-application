@@ -118,7 +118,9 @@ $ npm run server (for Node server side development)
 $ npm run client (for React client side development)
 $ npm run dev (for both client and server side)
 ```
+
 ## &nbsp; ENV
+
 - PORT=
 - DB_URI=
 - JWT_SECRET=
@@ -126,15 +128,14 @@ $ npm run dev (for both client and server side)
 - CLOUDINARY_API_KEY=
 - CLOUDINARY_API_ESCRET=
 
-
 # Author
 
-👤 &nbsp; **Mohamed Elashmawy**
+👤 &nbsp; **Alex**
 
-- Twitter: [@hamohuh](https://twitter.com/hamohuh)
-- Github: [@moelashmawy](https://github.com/moelashmawy)
-- Linkedin: [@moelashmawy](https://www.linkedin.com/in/moelashmawy/)
-- Email: [ashmawy894@gmail.com](mailto:ashmawy894@gmail.com)
+- Twitter: [@hamohuh](https://twitter.com/alexstar)
+- Github: [@moelashmawy](https://github.com/alexstaringgit)
+- Linkedin: [@moelashmawy](https://www.linkedin.com/in/alexstar/)
+- Email: [ashmawy894@gmail.com](mailto:alexstaring425@gmail.com)
 
 ## 📝 &nbsp; License
 
