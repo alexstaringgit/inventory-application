@@ -132,10 +132,10 @@ $ npm run dev (for both client and server side)
 
 👤 &nbsp; **Alex**
 
-- Twitter: [@hamohuh](https://twitter.com/alexstar)
-- Github: [@moelashmawy](https://github.com/alexstaringgit)
-- Linkedin: [@moelashmawy](https://www.linkedin.com/in/alexstar/)
-- Email: [ashmawy894@gmail.com](mailto:alexstaring425@gmail.com)
+- Twitter: [@alexstar](https://twitter.com/alexstar)
+- Github: [@alexstar](https://github.com/alexstaringgit)
+- Linkedin: [@alexstar](https://www.linkedin.com/in/alexstar/)
+- Email: [alexstaring425@gmail.com](mailto:alexstaring425@gmail.com)
 
 ## 📝 &nbsp; License
 
